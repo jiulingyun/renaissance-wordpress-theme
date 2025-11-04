@@ -1,0 +1,911 @@
+# Renaissance Theme - Simplified Chinese Translation
+# Copyright (C) 2025
+msgid ""
+msgstr ""
+"Project-Id-Version: Renaissance Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-24 10:00+0000\n"
+"PO-Revision-Date: 2025-01-24 10:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+# ============================================
+# 自定义文章类型 - Cases
+# ============================================
+msgid "Cases"
+msgstr "案例"
+
+msgid "Case"
+msgstr "案例"
+
+msgid "Add New"
+msgstr "添加新内容"
+
+msgid "Add New Case"
+msgstr "添加新案例"
+
+msgid "Edit Case"
+msgstr "编辑案例"
+
+msgid "New Case"
+msgstr "新案例"
+
+msgid "View Case"
+msgstr "查看案例"
+
+msgid "Search Cases"
+msgstr "搜索案例"
+
+msgid "No cases found"
+msgstr "未找到案例"
+
+msgid "No cases found in trash"
+msgstr "回收站中未找到案例"
+
+# ============================================
+# 自定义文章类型 - Announcements
+# ============================================
+msgid "Announcements"
+msgstr "公告"
+
+msgid "Announcement"
+msgstr "公告"
+
+msgid "Add New Announcement"
+msgstr "添加新公告"
+
+msgid "Edit Announcement"
+msgstr "编辑公告"
+
+msgid "New Announcement"
+msgstr "新公告"
+
+msgid "View Announcement"
+msgstr "查看公告"
+
+msgid "Search Announcements"
+msgstr "搜索公告"
+
+msgid "No announcements found"
+msgstr "未找到公告"
+
+msgid "No announcements found in trash"
+msgstr "回收站中未找到公告"
+
+msgid "Overview"
+msgstr "概述"
+
+msgid "Enhanced system performance"
+msgstr "增强的系统性能"
+
+msgid "Improved security features"
+msgstr "改进的安全功能"
+
+msgid "Bug fixes and optimizations"
+msgstr "错误修复和优化"
+
+msgid "Better user experience"
+msgstr "更好的用户体验"
+
+msgid "Updated documentation"
+msgstr "更新的文档"
+
+msgid "Performance Metrics"
+msgstr "性能指标"
+
+msgid "Availability"
+msgstr "可用性"
+
+msgid "This update is now available to all members. Please check your system settings for deployment options."
+msgstr "此更新现已向所有成员开放。请检查系统设置以了解部署选项。"
+
+msgid "Support & Documentation"
+msgstr "支持与文档"
+
+msgid "For technical questions or assistance, please contact our support team. Documentation is available in the member portal."
+msgstr "如有技术问题或需要帮助，请联系我们的支持团队。文档可在会员门户中找到。"
+
+msgid "Update Information"
+msgstr "更新信息"
+
+msgid "Version:"
+msgstr "版本："
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Compatibility:"
+msgstr "兼容性："
+
+msgid "Deployment:"
+msgstr "部署方式："
+
+msgid "Related Updates"
+msgstr "相关更新"
+
+msgid "System Update"
+msgstr "系统更新"
+
+msgid "All Systems"
+msgstr "所有系统"
+
+msgid "Manual"
+msgstr "手动"
+
+msgid "This is an important system update."
+msgstr "这是一个重要的系统更新。"
+
+# ============================================
+# 自定义文章类型 - Videos
+# ============================================
+msgid "Videos"
+msgstr "视频教程"
+
+msgid "Video"
+msgstr "视频"
+
+msgid "Add New Video"
+msgstr "添加新视频"
+
+msgid "Edit Video"
+msgstr "编辑视频"
+
+msgid "New Video"
+msgstr "新视频"
+
+msgid "View Video"
+msgstr "查看视频"
+
+msgid "Search Videos"
+msgstr "搜索视频"
+
+msgid "No videos found"
+msgstr "未找到视频"
+
+msgid "No videos found in trash"
+msgstr "回收站中未找到视频"
+
+# ============================================
+# 导航菜单
+# ============================================
+msgid "Home"
+msgstr "首页"
+
+msgid "Research"
+msgstr "研究"
+
+msgid "Downloads"
+msgstr "下载"
+
+msgid "Member"
+msgstr "会员"
+
+# ============================================
+# Case 详情页
+# ============================================
+msgid "Case Study"
+msgstr "案例研究"
+
+msgid "Success Rate"
+msgstr "成功率"
+
+msgid "Performance"
+msgstr "表现"
+
+msgid "Accuracy"
+msgstr "准确率"
+
+msgid "12 months"
+msgstr "12个月"
+
+msgid "10 specialists"
+msgstr "10名专家"
+
+msgid "Global Markets"
+msgstr "全球市场"
+
+msgid "Advanced Technology"
+msgstr "先进技术"
+
+msgid "Feature 1"
+msgstr "特性 1"
+
+msgid "Feature 2"
+msgstr "特性 2"
+
+msgid "Feature 3"
+msgstr "特性 3"
+
+msgid "Feature 4"
+msgstr "特性 4"
+
+msgid "Feature 5"
+msgstr "特性 5"
+
+msgid "Feature 6"
+msgstr "特性 6"
+
+msgid "Project Information"
+msgstr "项目信息"
+
+msgid "Duration"
+msgstr "周期"
+
+msgid "Team Size"
+msgstr "团队规模"
+
+msgid "Markets"
+msgstr "市场"
+
+msgid "Technology"
+msgstr "技术"
+
+msgid "Key Features"
+msgstr "关键特性"
+
+msgid "Related Cases"
+msgstr "相关案例"
+
+msgid "Interested in Similar Solutions?"
+msgstr "对类似解决方案感兴趣？"
+
+msgid "Discover how our quantitative trading strategies can transform your investment approach. Contact our team to learn more about implementing advanced algorithmic solutions."
+msgstr "了解我们的量化交易策略如何改变您的投资方式。联系我们的团队，了解更多关于实施先进算法解决方案的信息。"
+
+msgid "View More Cases"
+msgstr "查看更多案例"
+
+# ============================================
+# Video 详情页
+# ============================================
+msgid "Tutorial"
+msgstr "教程"
+
+msgid "Beginner"
+msgstr "初级"
+
+msgid "English"
+msgstr "英语"
+
+msgid "Available"
+msgstr "可用"
+
+msgid "Dr. Michael Chen"
+msgstr "Michael Chen 博士"
+
+msgid "Senior Quantitative Analyst"
+msgstr "高级量化分析师"
+
+msgid "15+ years experience in algorithmic trading and financial modeling."
+msgstr "在算法交易和金融建模方面拥有 15 年以上经验。"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Video Information"
+msgstr "视频信息"
+
+msgid "Duration:"
+msgstr "时长："
+
+msgid "Level:"
+msgstr "难度："
+
+msgid "Language:"
+msgstr "语言："
+
+msgid "Subtitles:"
+msgstr "字幕："
+
+msgid "Related Videos"
+msgstr "相关视频"
+
+msgid "Instructor"
+msgstr "讲师"
+
+msgid "Your browser does not support the video tag."
+msgstr "您的浏览器不支持视频播放。"
+
+msgid "Video not available"
+msgstr "视频不可用"
+
+msgid "views"
+msgstr "次观看"
+
+msgid "Published on"
+msgstr "发布于"
+
+msgid "Like"
+msgstr "点赞"
+
+msgid "Save"
+msgstr "收藏"
+
+msgid "Share"
+msgstr "分享"
+
+# ============================================
+# Downloads 页面
+# ============================================
+msgid "Read More"
+msgstr "阅读更多"
+
+msgid "Video Tutorial"
+msgstr "视频教程"
+
+# ============================================
+# 页脚
+# ============================================
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid "Risk Warning"
+msgstr "风险警告"
+
+msgid "Contact Information"
+msgstr "联系信息"
+
+msgid "Investor Relations"
+msgstr "投资者关系"
+
+# ============================================
+# 通用
+# ============================================
+msgid "All Categories"
+msgstr "所有分类"
+
+msgid "Select Category"
+msgstr "选择分类"
+
+msgid "Loading..."
+msgstr "加载中..."
+
+msgid "No results found"
+msgstr "未找到结果"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Page"
+msgstr "页"
+
+msgid "of"
+msgstr "共"
+
+# ============================================
+# Scientists CPT
+# ============================================
+msgid "Scientists"
+msgstr "科学家"
+
+msgid "Scientist"
+msgstr "科学家"
+
+msgid "Add New Scientist"
+msgstr "添加新科学家"
+
+msgid "Edit Scientist"
+msgstr "编辑科学家"
+
+msgid "New Scientist"
+msgstr "新科学家"
+
+msgid "View Scientist"
+msgstr "查看科学家"
+
+msgid "Search Scientists"
+msgstr "搜索科学家"
+
+msgid "No scientists found"
+msgstr "未找到科学家"
+
+msgid "No scientists found in trash"
+msgstr "回收站中未找到科学家"
+
+# ============================================
+# User Roles & Permissions
+# ============================================
+msgid "Premium Member"
+msgstr "高级会员"
+
+msgid "Premium Members"
+msgstr "高级会员"
+
+# ============================================
+# Profile & Account
+# ============================================
+msgid "My Profile"
+msgstr "我的资料"
+
+msgid "Additional Information"
+msgstr "附加信息"
+
+msgid "Phone Number"
+msgstr "电话号码"
+
+msgid "Phone number with country code"
+msgstr "带国家码的电话号码"
+
+msgid "ID Number"
+msgstr "证件号码"
+
+msgid "Government ID, Passport, or Driver's License Number"
+msgstr "政府证件、护照或驾照号码"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Manage your account information"
+msgstr "管理您的账户信息"
+
+msgid "Personal Information"
+msgstr "个人信息"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Display Name"
+msgstr "显示名称"
+
+msgid "First Name"
+msgstr "名字"
+
+msgid "Last Name"
+msgstr "姓氏"
+
+msgid "Email Address"
+msgstr "邮箱地址"
+
+msgid "Not set"
+msgstr "未设置"
+
+msgid "Member Since"
+msgstr "注册时间"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Quick Actions"
+msgstr "快速操作"
+
+msgid "Edit Profile"
+msgstr "编辑资料"
+
+msgid "Change Password"
+msgstr "修改密码"
+
+msgid "Logout"
+msgstr "退出登录"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Current Password"
+msgstr "当前密码"
+
+msgid "New Password"
+msgstr "新密码"
+
+msgid "At least 8 characters"
+msgstr "至少 8 个字符"
+
+msgid "Confirm New Password"
+msgstr "确认新密码"
+
+# ============================================
+# Custom Blocks
+# ============================================
+msgid "Renaissance Blocks"
+msgstr "Renaissance 区块"
+
+msgid "Methodology Card"
+msgstr "方法论卡片"
+
+msgid "A card to display methodology or approach"
+msgstr "用于展示方法论或实施方案的卡片"
+
+msgid "Result Card"
+msgstr "结果卡片"
+
+msgid "A card to display metrics and results"
+msgstr "用于展示指标和结果数据的卡片"
+
+msgid "Results Grid"
+msgstr "结果网格"
+
+msgid "A grid container for result cards"
+msgstr "结果卡片的网格容器"
+
+msgid "Methodology Grid"
+msgstr "方法论网格"
+
+msgid "A grid container for methodology cards"
+msgstr "方法论卡片的网格容器"
+
+# ============================================
+# Elementor Widgets
+# ============================================
+msgid "Renaissance Dynamic"
+msgstr "Renaissance 动态"
+
+msgid "Media Reports"
+msgstr "媒体报道"
+
+msgid "Number of Posts"
+msgstr "文章数量"
+
+msgid "Category"
+msgstr "分类"
+
+msgid "Order By"
+msgstr "排序方式"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Random"
+msgstr "随机"
+
+msgid "No posts found. Please add some posts to display here."
+msgstr "未找到文章。请添加一些文章以在此处显示。"
+
+msgid "Scientists List"
+msgstr "科学家列表"
+
+msgid "Number of Scientists"
+msgstr "科学家数量"
+
+msgid "-1 for all scientists"
+msgstr "-1 表示显示所有科学家"
+
+msgid "No scientists found. Please add scientists in the backend."
+msgstr "未找到科学家。请在后台添加科学家。"
+
+msgid "Cases List"
+msgstr "案例列表"
+
+msgid "Number of Cases"
+msgstr "案例数量"
+
+msgid "Columns"
+msgstr "列数"
+
+msgid "No cases found. Please add cases in the backend."
+msgstr "未找到案例。请在后台添加案例。"
+
+msgid "Announcements List"
+msgstr "公告列表"
+
+msgid "Number of Announcements"
+msgstr "公告数量"
+
+msgid "No announcements found."
+msgstr "未找到公告。"
+
+msgid "Video Tutorials"
+msgstr "视频教程"
+
+msgid "Number of Videos"
+msgstr "视频数量"
+
+msgid "No video tutorials found."
+msgstr "未找到视频教程。"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Hero Section"
+msgstr "Hero 区域"
+
+msgid "Title Line 1"
+msgstr "标题第一行"
+
+msgid "Title Line 2"
+msgstr "标题第二行"
+
+msgid "Company Tabs"
+msgstr "公司介绍标签页"
+
+msgid "Tab 1"
+msgstr "标签页 1"
+
+msgid "Tab 2"
+msgstr "标签页 2"
+
+msgid "Tab 3"
+msgstr "标签页 3"
+
+msgid "Feature Cards"
+msgstr "特性卡片"
+
+msgid "Card %d"
+msgstr "卡片 %d"
+
+msgid "Mission & Vision"
+msgstr "使命与愿景"
+
+msgid "Subtitle"
+msgstr "副标题"
+
+msgid "Section Title"
+msgstr "区块标题"
+
+msgid "Alignment"
+msgstr "对齐方式"
+
+msgid "Left"
+msgstr "左对齐"
+
+msgid "Center"
+msgstr "居中"
+
+msgid "Right"
+msgstr "右对齐"
+
+msgid "Research Hero"
+msgstr "Research Hero 区域"
+
+msgid "Feature %d"
+msgstr "特性 %d"
+
+msgid "Downloads Hero"
+msgstr "Downloads Hero 区域"
+
+msgid "Category Label"
+msgstr "分类标签"
+
+msgid "Main Download Card"
+msgstr "主下载卡片"
+
+msgid "Badge Text"
+msgstr "徽章文字"
+
+msgid "Download File URL"
+msgstr "下载文件链接"
+
+msgid "Button Text"
+msgstr "按钮文字"
+
+msgid "Commercialization Path"
+msgstr "商业化路径"
+
+msgid "Get Started CTA"
+msgstr "开始行动区域"
+
+msgid "Login Button Text"
+msgstr "登录按钮文字"
+
+msgid "Register Button Text"
+msgstr "注册按钮文字"
+
+# ============================================
+# Main Download Card Widget - Permission Settings
+# ============================================
+msgid "Permission Settings"
+msgstr "权限设置"
+
+msgid "Require Login"
+msgstr "需要登录"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "否"
+
+msgid "Only show this card to logged-in users"
+msgstr "仅向已登录用户显示此卡片"
+
+msgid "Require Premium Membership"
+msgstr "需要高级会员"
+
+msgid "Only show this card to users with \"access_downloads\" capability"
+msgstr "仅向拥有\"下载访问\"权限的用户显示此卡片"
+
+msgid "Fallback Message"
+msgstr "提示消息"
+
+msgid "Message to show when user does not have permission"
+msgstr "当用户没有权限时显示的消息"
+
+msgid "Premium Content"
+msgstr "高级内容"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Register"
+msgstr "注册"
+
+msgid "Upgrade Membership"
+msgstr "等待审核中"
+
+# ============================================
+
+# ============================================
+# Login Page - Unique New Translations
+# ============================================
+msgid "Access your exclusive quantitative resource library"
+msgstr "访问您的专属量化资源库"
+
+msgid "your@email.com"
+msgstr "your@email.com"
+
+msgid "your password"
+msgstr "您的密码"
+
+msgid "Remember me"
+msgstr "记住我"
+
+msgid "Forgot password?"
+msgstr "忘记密码？"
+
+msgid "Don't have an account?"
+msgstr "还没有账号？"
+
+msgid "Create one"
+msgstr "创建账号"
+
+# ============================================
+# Register Page - Unique New Translations
+# ============================================
+msgid "Open your exclusive quantitative resource library"
+msgstr "开启您的专属量化资源库"
+
+msgid "John"
+msgstr "请输入姓"
+
+msgid "Doe"
+msgstr "请输入你的名字"
+
+msgid "john.doe@example.com"
+msgstr "请输入你的电子邮箱"
+
+msgid "123-456-7890"
+msgstr "请输入手机号"
+
+msgid "Government ID / Passport Number"
+msgstr "政府身份证 / 护照号码"
+
+msgid "A12345678"
+msgstr "请输入证件号"
+
+msgid "Driver's License, Passport, or National ID Number"
+msgstr "驾驶执照、护照或身份证号码"
+
+msgid "••••••••"
+msgstr "请输入密码"
+
+msgid "At least 8 characters with uppercase, lowercase, and numbers"
+msgstr "至少8个字符，包含大写、小写和数字"
+
+msgid "Confirm Password"
+msgstr "确认密码"
+
+msgid "I agree to the"
+msgstr "我同意"
+
+msgid "Terms of Service"
+msgstr "服务条款"
+
+msgid "and"
+msgstr "和"
+
+msgid "Create Account"
+msgstr "创建账号"
+
+msgid "Already have an account,"
+msgstr "已有账号，"
+
+msgid "Go to login"
+msgstr "前往登录"
+
+# ============================================
+# Forgot Password Page - Unique New Translations
+# ============================================
+msgid "Reset Password"
+msgstr "重置密码"
+
+msgid "Enter your email address and we'll send you a link to reset your password."
+msgstr "输入您的电子邮箱，我们将向您发送重置密码的链接。"
+
+msgid "Send Reset Link"
+msgstr "发送重置链接"
+
+msgid "Back to Login"
+msgstr "返回登录"
+
+msgid "Email Sent!"
+msgstr "邮件已发送！"
+
+msgid "We've sent a password reset link to your email address. Please check your inbox and follow the instructions."
+msgstr "我们已向您的电子邮箱发送了密码重置链接。请检查您的收件箱并按照说明操作。"
+
+msgid "Didn't receive the email? Check your spam folder or"
+msgstr "没有收到邮件？请检查您的垃圾邮件文件夹或"
+
+msgid "resend the link"
+msgstr "重新发送链接"
+
+# Footer Newsletter Section
+msgid "Get free information"
+msgstr "获取免费信息"
+
+msgid "In our weekly newsletter."
+msgstr "在我们的每周通讯中。"
+
+msgid "Enter your email"
+msgstr "输入您的邮箱"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+
+# ============================================
+
+# ============================================
+# Admin Multilingual Management
+# ============================================
+msgid "All Languages"
+msgstr "所有语言"
+
+msgid "Edit translations:"
+msgstr "编辑翻译："
+
+
+msgid "Avatar"
+msgstr "头像"
+
+# ============================================
+# Contact Form AJAX Messages
+# ============================================
+msgid "Please fill in all required fields."
+msgstr "请填写所有必填项。"
+
+msgid "Message must be at least 10 characters long."
+msgstr "留言至少需要10个字符。"
+
+msgid "Thank you for your message! We will get back to you within 24-48 hours."
+msgstr "感谢您的留言！我们将在24-48小时内回复您。"
+
+msgid "Sorry, there was an error sending your message. Please try again or contact us via email."
+msgstr "抱歉，发送留言时出错。请重试或通过邮件联系我们。"
+
+# ============================================
+# Newsletter Subscription AJAX Messages
+# ============================================
+msgid "This email is already subscribed."
+msgstr "此邮箱已经订阅过了。"
+
+msgid "Invalid page ID."
+msgstr "无效的页面ID。"
+
+msgid "Thank you for subscribing! You will receive our weekly newsletter."
+msgstr "感谢订阅！您将收到我们的每周资讯。"
+
+msgid "Sorry, there was an error processing your subscription. Please try again."
+msgstr "抱歉，处理订阅时出错。请重试。"
+

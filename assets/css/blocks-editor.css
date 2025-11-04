@@ -1,0 +1,71 @@
+/**
+ * Gutenberg 自定义区块编辑器样式
+ * 只针对自定义区块，不影响整体编辑器
+ */
+
+/* 只为自定义区块添加样式，不影响编辑器背景 */
+
+/* Methodology Card 编辑器预览 */
+.wp-block[data-type="renaissance/methodology-card"] .methodology-item {
+    background: rgba(124, 58, 237, 0.1);
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin-bottom: 1rem;
+}
+
+.wp-block[data-type="renaissance/methodology-card"] .methodology-title {
+    color: #333;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.wp-block[data-type="renaissance/methodology-card"] .methodology-desc {
+    color: #666;
+    font-size: 0.95rem;
+    margin: 0;
+}
+
+/* Result Card 编辑器预览 */
+.wp-block[data-type="renaissance/result-card"] .result-card {
+    background: rgba(138, 43, 226, 0.1);
+    padding: 1.5rem;
+    border-radius: 12px;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.wp-block[data-type="renaissance/result-card"] .result-number {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #a855f7;
+    margin-bottom: 0.5rem;
+}
+
+.wp-block[data-type="renaissance/result-card"] .result-label {
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 0.25rem;
+}
+
+.wp-block[data-type="renaissance/result-card"] .result-desc {
+    font-size: 0.85rem;
+    color: #666;
+}
+
+/* Grid Containers 编辑器预览 */
+.wp-block[data-type="renaissance/results-grid"] > div > div,
+.wp-block[data-type="renaissance/methodology-grid"] > div > div {
+    padding: 1rem;
+    background: rgba(138, 43, 226, 0.05);
+    border-radius: 8px;
+    border: 1px dashed rgba(138, 43, 226, 0.3);
+}
+
+.wp-block[data-type="renaissance/results-grid"] h3,
+.wp-block[data-type="renaissance/methodology-grid"] h3 {
+    color: #333;
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}

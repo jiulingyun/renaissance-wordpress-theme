@@ -1,0 +1,186 @@
+/**
+ * 后台多语言管理优化样式
+ * Version: 1.5.0
+ */
+
+/* ============================================
+   标题列宽度调整
+   ============================================ */
+
+/* 增加标题列宽度，为语言徽章和长标题留出空间 */
+.wp-list-table .column-title {
+  width: 45% !important;
+}
+
+/* 在较小屏幕上也保持合理宽度 */
+@media screen and (min-width: 783px) and (max-width: 1200px) {
+  .wp-list-table .column-title {
+    width: 40% !important;
+  }
+}
+
+/* ============================================
+   语言标记样式
+   ============================================ */
+
+.rena-lang-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  font-size: 10px;
+  font-weight: 600;
+  border-radius: 3px;
+  text-transform: uppercase;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.rena-lang-en {
+  background: #e3f2fd;
+  color: #1565c0;
+  border: 1px solid #90caf9;
+}
+
+.rena-lang-zh {
+  background: #fff3e0;
+  color: #e65100;
+  border: 1px solid #ffb74d;
+}
+
+.rena-lang-fr {
+  background: #f3e5f5;
+  color: #6a1b9a;
+  border: 1px solid #ba68c8;
+}
+
+/* ============================================
+   编辑翻译链接样式
+   ============================================ */
+
+.rena-edit-translations {
+  color: #646970;
+  font-size: 12px;
+}
+
+.rena-edit-translations a {
+  color: #2271b1;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.rena-edit-translations a:hover {
+  color: #135e96;
+  text-decoration: underline;
+}
+
+/* ============================================
+   语言筛选器样式
+   ============================================ */
+
+#lang_filter {
+  min-width: 150px;
+  height: 32px;
+  margin: 0 8px 0 0;
+  vertical-align: top;
+}
+
+/* ============================================
+   表格行颜色标记（可选）
+   ============================================ */
+
+/* 为不同语言的行添加微妙的背景色 */
+.post-type-post tr[data-lang="en"],
+.post-type-page tr[data-lang="en"],
+.type-case tr[data-lang="en"],
+.type-announcement tr[data-lang="en"],
+.type-video tr[data-lang="en"],
+.type-scientist tr[data-lang="en"] {
+  /* 英语 - 默认，无特殊背景 */
+}
+
+.post-type-post tr[data-lang="zh"],
+.post-type-page tr[data-lang="zh"],
+.type-case tr[data-lang="zh"],
+.type-announcement tr[data-lang="zh"],
+.type-video tr[data-lang="zh"],
+.type-scientist tr[data-lang="zh"] {
+  background: rgba(255, 152, 0, 0.02);
+}
+
+.post-type-post tr[data-lang="fr"],
+.post-type-page tr[data-lang="fr"],
+.type-case tr[data-lang="fr"],
+.type-announcement tr[data-lang="fr"],
+.type-video tr[data-lang="fr"],
+.type-scientist tr[data-lang="fr"] {
+  background: rgba(156, 39, 176, 0.02);
+}
+
+/* ============================================
+   响应式调整
+   ============================================ */
+
+@media screen and (max-width: 782px) {
+  .rena-lang-badge {
+    font-size: 9px;
+    padding: 1px 4px;
+  }
+  
+  .rena-translation-links {
+    margin-top: 3px;
+  }
+  
+  #lang_filter {
+    min-width: 120px;
+    margin: 0 4px 0 0;
+  }
+}
+
+/* ============================================
+   深色模式支持
+   ============================================ */
+
+@media (prefers-color-scheme: dark) {
+  .rena-lang-name {
+    color: #72aee6;
+  }
+  
+  .rena-missing-translations {
+    background: #3c2f2f;
+    color: #f86368;
+  }
+  
+  .rena-trans-link:hover {
+    background: #2c3338;
+  }
+  
+  .rena-lang-en {
+    background: #1e3a5f;
+    color: #90caf9;
+    border-color: #1565c0;
+  }
+  
+  .rena-lang-zh {
+    background: #3e2723;
+    color: #ffb74d;
+    border-color: #e65100;
+  }
+  
+  .rena-lang-fr {
+    background: #38006b;
+    color: #ba68c8;
+    border-color: #6a1b9a;
+  }
+  
+  .rena-edit-translations {
+    color: #c3c4c7;
+  }
+  
+  .rena-edit-translations a {
+    color: #72aee6;
+  }
+  
+  .rena-edit-translations a:hover {
+    color: #90caf9;
+  }
+}
+

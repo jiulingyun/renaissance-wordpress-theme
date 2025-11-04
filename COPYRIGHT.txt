@@ -1,0 +1,83 @@
+RENAISSANCE WORDPRESS THEME
+Copyright Notice & Attribution
+
+================================================================================
+COPYRIGHT INFORMATION
+================================================================================
+
+Copyright (c) 2025 JiuLingYun
+All rights reserved (where applicable under GPL v2).
+
+Original Developer: JiuLingYun
+Developer Website: https://www.jiulingyun.cn
+Theme Website: https://www.jiulingyun.cn/themes/renaissance
+Email: [Contact via website]
+
+Theme Name: Renaissance
+Current Version: 1.6.9
+Initial Release: 2025
+License: GNU General Public License v2.0 or later
+
+================================================================================
+ATTRIBUTION REQUEST
+================================================================================
+
+This theme is licensed under the GNU General Public License v2.0 or later.
+While you are legally free to modify and redistribute this theme under the GPL,
+we kindly request that you:
+
+1. Maintain the original copyright notice where possible
+2. Include attribution to the original author
+3. Link back to the original theme page when redistributing
+4. Respect the original developer's work
+
+These are requests, not legal requirements under GPL, but they help support
+open source development and are greatly appreciated.
+
+================================================================================
+DEVELOPMENT INFORMATION
+================================================================================
+
+Renaissance is a professional WordPress theme designed for quantitative
+investment and financial technology companies. It features:
+
+- Modern dark technology design
+- Multi-language support (Chinese, English, French)
+- Elementor page builder integration
+- Custom post types (Cases, Announcements, Videos, Scientists)
+- Membership system and permission management
+- Responsive design and modern UI/UX
+
+The theme was developed from scratch by JiuLingYun with attention to:
+- Code quality and WordPress coding standards
+- Performance optimization
+- Security best practices
+- User experience and accessibility
+
+================================================================================
+SUPPORT & CONTRIBUTION
+================================================================================
+
+If you find this theme useful, please consider:
+
+- ⭐ Starring the repository on GitHub
+- 🐛 Reporting bugs and issues
+- 💡 Suggesting new features
+- 🔄 Contributing code improvements
+- 📢 Sharing with others
+
+For commercial support, custom development, or licensing inquiries:
+Visit: https://www.jiulingyun.cn/contact
+
+================================================================================
+THANK YOU
+================================================================================
+
+Thank you for using Renaissance WordPress Theme!
+
+Your support helps us continue developing and maintaining free, open-source
+WordPress themes for the community.
+
+Sincerely,
+JiuLingYun
+

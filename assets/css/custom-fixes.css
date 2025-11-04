@@ -1,0 +1,289 @@
+
+/* 修复科学家头像为完美圆形 */
+.scientist-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.scientist-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* 修复公告文章标题的换行显示，确保与原静态HTML一致 */
+.announcement-article .article-title {
+    max-width: 100%;
+    word-break: break-word;
+    hyphens: auto;
+    line-height: 1.4;
+}
+
+/* User Profile 页面样式 */
+.profile-section {
+    padding: 6rem 0 4rem;
+    min-height: 80vh;
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.profile-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.profile-subtitle {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1.1rem;
+}
+
+.info-card {
+    background: rgba(255, 255, 255, 0.03);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+.info-card .card-title {
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.info-list .info-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.info-list .info-item:last-child {
+    border-bottom: none;
+}
+
+.info-label {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.info-value {
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
+.action-buttons .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+/* 文章详情页相关文章链接样式 */
+.related-case .related-title a {
+    color: #fff;
+    text-decoration: underline;
+    transition: color 0.3s ease;
+}
+
+.related-case .related-title a:hover {
+    color: #8a2be2;
+}
+
+/* Main Download Card - Permission Required 样式 */
+.main-download-card.permission-required {
+    background: linear-gradient(135deg, rgba(10, 14, 39, 0.95) 0%, rgba(20, 25, 60, 0.95) 100%);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 3rem 2rem;
+}
+
+.main-download-card.permission-required .permission-icon {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.main-download-card.permission-required .permission-title {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.main-download-card.permission-required .permission-message {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 1rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.main-download-card.permission-required .permission-actions {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.main-download-card.permission-required .btn {
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.main-download-card.permission-required .btn-primary {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    color: #fff;
+}
+
+.main-download-card.permission-required .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+}
+
+.main-download-card.permission-required .btn-outline-primary {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #fff;
+    background: transparent;
+}
+
+.main-download-card.permission-required .btn-outline-primary:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.5);
+    transform: translateY(-2px);
+}
+
+/* Register Toast 消息样式 */
+.register-message-toast {
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%) translateY(-100px);
+    z-index: 9999;
+    min-width: 350px;
+    max-width: 500px;
+    background: rgba(10, 14, 39, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: all 0.3s ease;
+}
+
+.register-message-toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+.register-message-toast.success {
+    border-left: 4px solid #22c55e;
+}
+
+.register-message-toast.error {
+    border-left: 4px solid #ef4444;
+}
+
+.register-message-toast .toast-content {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: #fff;
+}
+
+.register-message-toast .toast-content i {
+    font-size: 1.5rem;
+    flex-shrink: 0;
+}
+
+.register-message-toast.success .toast-content i {
+    color: #22c55e;
+}
+
+.register-message-toast.error .toast-content i {
+    color: #ef4444;
+}
+
+.register-message-toast .toast-content span {
+    flex: 1;
+    font-size: 0.95rem;
+}
+
+/* Profile Modal 样式 */
+.profile-modal-content {
+    background: rgba(10, 14, 39, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+.profile-modal-content .modal-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.profile-modal-content .modal-title {
+    color: #fff;
+}
+
+.profile-modal-content .btn-close {
+    filter: invert(1);
+    opacity: 0.8;
+}
+
+.profile-modal-content .modal-footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.profile-modal-content label {
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 0.5rem;
+}
+
+.profile-modal-content .form-control {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+}
+
+.profile-modal-content .form-control:focus {
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(138, 43, 226, 0.5);
+    color: #fff;
+    box-shadow: 0 0 0 3px rgba(138, 43, 226, 0.1);
+}
+
+.profile-modal-content .form-text {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.profile-modal-content .alert {
+    margin-bottom: 1rem;
+}
+
+.profile-modal-content .alert-success {
+    background: rgba(34, 197, 94, 0.1);
+    border: 1px solid rgba(34, 197, 94, 0.3);
+    color: #22c55e;
+}
+
+.profile-modal-content .alert-danger {
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.3);
+    color: #ef4444;
+}
+

@@ -1,0 +1,640 @@
+# Renaissance Theme - French Translation
+# Copyright (C) 2025
+msgid ""
+msgstr ""
+"Project-Id-Version: Renaissance Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-24 10:00+0000\n"
+"PO-Revision-Date: 2025-01-24 10:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ============================================
+# 自定义文章类型 - Cases
+# ============================================
+msgid "Cases"
+msgstr "Cas"
+
+msgid "Case"
+msgstr "Cas"
+
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+msgid "Add New Case"
+msgstr "Ajouter un nouveau cas"
+
+msgid "Edit Case"
+msgstr "Modifier le cas"
+
+msgid "New Case"
+msgstr "Nouveau cas"
+
+msgid "View Case"
+msgstr "Voir le cas"
+
+msgid "Search Cases"
+msgstr "Rechercher des cas"
+
+msgid "No cases foet"
+msgstr "Aucun Cas gefeten"
+
+msgid "No cases foet in trash"
+msgstr "Aucun Cas im corbeille gefeten"
+
+# ============================================
+# 自定义文章类型 - Announcements
+# ============================================
+msgid "Announcements"
+msgstr "Annonces"
+
+msgid "Announcement"
+msgstr "Annonce"
+
+msgid "Add New Announcement"
+msgstr "Ajouter une nouvelle annonce"
+
+msgid "Edit Announcement"
+msgstr "Modifier l'annonce"
+
+msgid "New Announcement"
+msgstr "Nouvelle Annonce"
+
+msgid "View Announcement"
+msgstr "Voir l'annonce"
+
+msgid "Search Announcements"
+msgstr "Annonces rechercher"
+
+msgid "No announcements foet"
+msgstr "Aucun Annonces gefeten"
+
+msgid "No announcements foet in trash"
+msgstr "Aucun Annonces im corbeille gefeten"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Enhanced system performance"
+msgstr "Verbesserte Systemleistung"
+
+msgid "Improved security features"
+msgstr "Verbesserte Sicherheitsfunktionen"
+
+msgid "Bug fixes and optimizations"
+msgstr "Erreurbehebungen et Optimierungen"
+
+msgid "Better user experience"
+msgstr "Bessere Benutzererfahrung"
+
+msgid "Updated documentation"
+msgstr "Aktualisierte Dokumentation"
+
+msgid "Performance Metrics"
+msgstr "Leistungskennzahlen"
+
+msgid "Availability"
+msgstr "Verfügbarkeit"
+
+msgid "This update is now available to all members. Please check your system settings for deployment options."
+msgstr "Dieses Update ist jetzt für alle Membreer verfügbar. Bitte überprüfen Sie Ihre Systemeinstellungen für Bereitstellungsoptionen."
+
+msgid "Support & Documentation"
+msgstr "Support & Dokumentation"
+
+msgid "For technical questions or assistance, please contact our support team. Documentation is available in the member portal."
+msgstr "Bei technischen Fragen oder Unterstütdeng wenden Sie sich bitte an unser Support-Team. Die Dokumentation ist im Membreerportal verfügbar."
+
+msgid "Update Information"
+msgstr "Update-Informationen"
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "Size:"
+msgstr "Größe:"
+
+msgid "Compatibility:"
+msgstr "Kompatibilität:"
+
+msgid "Deployment:"
+msgstr "Bereitstellung:"
+
+msgid "Related Updates"
+msgstr "Verwandte Updates"
+
+msgid "System Update"
+msgstr "System-Update"
+
+msgid "All Systems"
+msgstr "Alle Systeme"
+
+msgid "Manual"
+msgstr "Manuell"
+
+msgid "This is an important system update."
+msgstr "Dies ist ein wichtiges System-Update."
+
+# ============================================
+# 自定义文章类型 - Vidéos
+# ============================================
+msgid "Vidéos"
+msgstr "Vidéos"
+
+msgid "Vidéo"
+msgstr "Vidéo"
+
+msgid "Add New Vidéo"
+msgstr "Nouvelles Vidéo ajouter"
+
+msgid "Edit Vidéo"
+msgstr "Modifier la vidéo"
+
+msgid "New Vidéo"
+msgstr "Nouvelles Vidéo"
+
+msgid "View Vidéo"
+msgstr "Voir la vidéo"
+
+msgid "Search Vidéos"
+msgstr "Vidéos rechercher"
+
+msgid "No videos foet"
+msgstr "Aucun Vidéos gefeten"
+
+msgid "No videos foet in trash"
+msgstr "Aucun Vidéos im corbeille gefeten"
+
+# ============================================
+# 导航菜单
+# ============================================
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Research"
+msgstr "Recherche"
+
+msgid "Téléchargements"
+msgstr "Téléchargements"
+
+msgid "Member"
+msgstr "Membre"
+
+# ============================================
+# Case 详情页
+# ============================================
+msgid "Case Study"
+msgstr "Casstudie"
+
+msgid "Success Rate"
+msgstr "Succèssquote"
+
+msgid "Performance"
+msgstr "Leistung"
+
+msgid "Accuracy"
+msgstr "Genauigkeit"
+
+msgid "12 months"
+msgstr "12 Monate"
+
+msgid "10 specialists"
+msgstr "10 Spezialisten"
+
+msgid "Global Markets"
+msgstr "Globale Märkte"
+
+msgid "Advanced Technology"
+msgstr "Fortschrittliche Technologie"
+
+msgid "Feature 1"
+msgstr "Funktion 1"
+
+msgid "Feature 2"
+msgstr "Funktion 2"
+
+msgid "Feature 3"
+msgstr "Funktion 3"
+
+msgid "Feature 4"
+msgstr "Funktion 4"
+
+msgid "Feature 5"
+msgstr "Funktion 5"
+
+msgid "Feature 6"
+msgstr "Funktion 6"
+
+msgid "Project Information"
+msgstr "Informations sur le Projet"
+
+msgid "Duration"
+msgstr "Dauer"
+
+msgid "Team Size"
+msgstr "Teamgröße"
+
+msgid "Markets"
+msgstr "Märkte"
+
+msgid "Technology"
+msgstr "Technologie"
+
+msgid "Key Features"
+msgstr "Caractéristiques Clés"
+
+msgid "Related Cases"
+msgstr "Cas Connexes"
+
+msgid "Interested in Similar Solutions?"
+msgstr "Intéressé par des Solutions Similaires?"
+
+msgid "Discover how our quantitative trading strategies can transform your investment approach. Contact our team to learn more about implementing advanced algorithmic solutions."
+msgstr "Découvrez comment nos stratégies de trading quantitatif peuvent transformer votre approche d'investissement. Contactez notre équipe pour en savoir plus sur la mise en œuvre de solutions algorithmiques avancées."
+
+msgid "View More Cases"
+msgstr "Voir Plus de Cas"
+
+msgid "Upgrade Membership"
+msgstr "En attente de révision"
+
+# ============================================
+# Vidéo 详情页
+# ============================================
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgid "Beginner"
+msgstr "Anfänger"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "Available"
+msgstr "Verfügbar"
+
+msgid "Dr. Michael Chen"
+msgstr "Dr. Michael Chen"
+
+msgid "Senior Quantitative Analyst"
+msgstr "Senior Quantitative Analyst"
+
+msgid "15+ years experience in algorithmic trading and financial modeling."
+msgstr "15+ Ouihre Erfahrung im algorithmischen Handel et Finanzmodellierung."
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Vidéo Information"
+msgstr "Vidéo-Informationen"
+
+msgid "Duration:"
+msgstr "Dauer:"
+
+msgid "Level:"
+msgstr "Niveau:"
+
+msgid "Language:"
+msgstr "Sprache:"
+
+msgid "Subtitles:"
+msgstr "Untertitel:"
+
+msgid "Related Vidéos"
+msgstr "Verwandte Vidéos"
+
+msgid "Instructor"
+msgstr "Dozent"
+
+msgid "Your browser does not support the video tag."
+msgstr "Ihr Browser unterstützt kein Vidéo-Tag."
+
+msgid "Vidéo not available"
+msgstr "Vidéo nicht verfügbar"
+
+msgid "views"
+msgstr "Aufrufe"
+
+msgid "Published on"
+msgstr "Veröffentlicht am"
+
+msgid "Like"
+msgstr "Gefällt mir"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Share"
+msgstr "Teilen"
+
+# ============================================
+# Téléchargements 页面
+# ============================================
+msgid "Read More"
+msgstr "Mehr lesen"
+
+msgid "Vidéo Tutorial"
+msgstr "Vidéo-Tutorial"
+
+# ============================================
+# 页脚
+# ============================================
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "Risk Warning"
+msgstr "Avertissement sur les risques"
+
+msgid "Contact Information"
+msgstr "Contactinformationen"
+
+msgid "Relations investisseurs"
+msgstr "Relations investisseurs"
+
+# ============================================
+# 通用
+# ============================================
+msgid "All Categories"
+msgstr "Alle Kategorien"
+
+msgid "Select Category"
+msgstr "Kategorie auswählen"
+
+msgid "Loading..."
+msgstr "Wird geladen..."
+
+msgid "No results foet"
+msgstr "Aucun Ergebnisse gefeten"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Previous"
+msgstr "Zurück"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Page"
+msgstr "Seite"
+
+msgid "of"
+msgstr "von"
+
+# ============================================
+# Scientists CPT
+# ============================================
+msgid "Scientists"
+msgstr "Scientifiques"
+
+msgid "Scientist"
+msgstr "Scientifiques"
+
+msgid "Add New Scientist"
+msgstr "Ajouter un nouveau scientifique"
+
+msgid "Edit Scientist"
+msgstr "Modifier le scientifique"
+
+msgid "New Scientist"
+msgstr "Nouveau scientifique"
+
+msgid "View Scientist"
+msgstr "Voir le scientifique"
+
+msgid "Search Scientists"
+msgstr "Rechercher des scientifiques"
+
+msgid "No scientists foet"
+msgstr "Aucun Scientifiques gefeten"
+
+msgid "No scientists foet in trash"
+msgstr "Aucun Scientifiques im corbeille gefeten"
+
+# ============================================
+# User Roles & Permissions
+# ============================================
+msgid "Premium Member"
+msgstr "Membre Premium"
+
+msgid "Premium Members"
+msgstr "Membre Premiumer"
+
+# ============================================
+# Profile & Account
+# ============================================
+msgid "My Profile"
+msgstr "Mein Profil"
+
+msgid "Additional Information"
+msgstr "Zusätzliche Informationen"
+
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+msgid "Phone number with country code"
+msgstr "Numéro de téléphone mit Landesvorwahl"
+
+msgid "ID Number"
+msgstr "Ausweisnummer"
+
+msgid "Government ID, Passport, or Driver's License Number"
+msgstr "Personalausweis, Reisepass oder Führerscheinnummer"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Manage your account information"
+msgstr "Verwalten Sie Ihre Kontoinformationen"
+
+msgid "Personal Information"
+msgstr "Persönliche Informationen"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Display Name"
+msgstr "Anzeigename"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom"
+
+msgid "Email Address"
+msgstr "E-mail-Adresse"
+
+msgid "Not set"
+msgstr "Nicht festgelegt"
+
+msgid "Member Since"
+msgstr "Membre seit"
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Quick Actions"
+msgstr "Schnellaktionen"
+
+msgid "Edit Profile"
+msgstr "Profil modifier"
+
+msgid "Change Password"
+msgstr "Mot de passe ändern"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Current Password"
+msgstr "Aktuelles Mot de passe"
+
+msgid "New Password"
+msgstr "Nouvelles Mot de passe"
+
+msgid "At least 8 characters"
+msgstr "Mindestens 8 Zeichen"
+
+msgid "Confirm New Password"
+msgstr "Nouvelles Confirmer le mot de passe"
+
+# ============================================
+# Custom Blocks
+# ============================================
+msgid "Renaissance Blocks"
+msgstr "Renaissance Blöcke"
+
+msgid "Methodology Card"
+msgstr "Methodik-Karte"
+
+msgid "A card to display methodology or approach"
+msgstr "Eine Karte der Anzeige von Methodik oder Ansatz"
+
+msgid "Result Card"
+msgstr "Ergebnis-Karte"
+
+msgid "A card to display metrics and results"
+msgstr "Eine Karte der Anzeige von Metriken et Ergebnissen"
+
+msgid "Results Grid"
+msgstr "Ergebnis-Raster"
+
+msgid "A grid container for result cards"
+msgstr "Ein Raster-Container für Ergebnis-Karten"
+
+msgid "Methodology Grid"
+msgstr "Methodik-Raster"
+
+msgid "A grid container for methodology cards"
+msgstr "Ein Raster-Container für Methodik-Karten"
+
+
+# Footer Newsletter Section
+msgid "Get free information"
+msgstr "Obtenez des informations gratuites"
+
+msgid "In our weekly newsletter."
+msgstr "Dans notre newsletter hebdomadaire."
+
+msgid "Enter your email"
+msgstr "Geben Sie Ihre E-mail ein"
+
+msgid "Subscribe"
+msgstr "S'abonner"
+
+
+# ============================================
+
+# ============================================
+# Admin Multilingual Management
+# ============================================
+msgid "All Languages"
+msgstr "Toutes les langues"
+
+msgid "Edit translations:"
+msgstr "Modifier les traductions :"
+
+# ============================================
+# Login Page - Unique New Translations
+# ============================================
+msgid "your@email.com"
+msgstr "E-mail"
+
+msgid "your password"
+msgstr "Mot de passe"
+
+msgid "John"
+msgstr "Veuillez saisir votre nom de famille"
+
+msgid "Doe"
+msgstr "Veuillez saisir votre prénom"
+
+msgid "john.doe@example.com"
+msgstr "Veuillez saisir votre adresse e-mail"
+
+msgid "123-456-7890"
+msgstr "Veuillez saisir votre numéro de téléphone"
+
+msgid "Government Card / Passport Number"
+msgstr "Government Card / Passport Number"
+
+msgid "A12345678"
+msgstr "Veuillez saisir votre numéro de pièce d'identité"
+
+msgid "Permis de conduire, passeport ou numéro de carte d'identité nationale"
+msgstr "Permis de conduire, passeport ou numéro de carte d'identité nationale"
+
+msgid "••••••••"
+msgstr "Veuillez saisir votre mot de passe"
+
+
+msgid "Avatar"
+msgstr "Avatar"
+
+# ============================================
+# Contact Form AJAX Messages
+# ============================================
+msgid "Please fill in all required fields."
+msgstr "Veuillez remplir tous les champs obligatoires."
+
+msgid "Message must be at least 10 characters long."
+msgstr "Le message doit contenir au moins 10 caractères."
+
+msgid "Thank you for your message! We will get back to you within 24-48 hours."
+msgstr "Merci pour votre message ! Nous vous répondrons dans les 24 à 48 heures."
+
+msgid "Sorry, there was an error sending your message. Please try again or contact us via email."
+msgstr "Désolé, une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer ou nous contacter par e-mail."
+
+# ============================================
+# Newsletter Subscription AJAX Messages
+# ============================================
+msgid "This email is already subscribed."
+msgstr "Cet e-mail est déjà abonné."
+
+msgid "Invalid page ID."
+msgstr "ID de page invalide."
+
+msgid "Thank you for subscribing! You will receive our weekly newsletter."
+msgstr "Merci de vous être abonné ! Vous recevrez notre newsletter hebdomadaire."
+
+msgid "Sorry, there was an error processing your subscription. Please try again."
+msgstr "Désolé, une erreur s'est produite lors du traitement de votre abonnement. Veuillez réessayer."
+

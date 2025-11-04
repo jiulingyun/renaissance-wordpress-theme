@@ -1,0 +1,690 @@
+# Renaissance Theme - English (US) Translation
+# Copyright (C) 2025
+msgid ""
+msgstr ""
+"Project-Id-Version: Renaissance Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-24 10:00+0000\n"
+"PO-Revision-Date: 2025-01-24 10:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ============================================
+# Custom Post Types - Cases
+# ============================================
+msgid "Cases"
+msgstr "Cases"
+
+msgid "Case"
+msgstr "Case"
+
+msgid "Add New"
+msgstr "Add New"
+
+msgid "Add New Case"
+msgstr "Add New Case"
+
+msgid "Edit Case"
+msgstr "Edit Case"
+
+msgid "New Case"
+msgstr "New Case"
+
+msgid "View Case"
+msgstr "View Case"
+
+msgid "Search Cases"
+msgstr "Search Cases"
+
+msgid "No cases found"
+msgstr "No cases found"
+
+msgid "No cases found in trash"
+msgstr "No cases found in trash"
+
+# ============================================
+# Custom Post Types - Announcements
+# ============================================
+msgid "Announcements"
+msgstr "Announcements"
+
+msgid "Announcement"
+msgstr "Announcement"
+
+msgid "Add New Announcement"
+msgstr "Add New Announcement"
+
+msgid "Edit Announcement"
+msgstr "Edit Announcement"
+
+msgid "New Announcement"
+msgstr "New Announcement"
+
+msgid "View Announcement"
+msgstr "View Announcement"
+
+msgid "Search Announcements"
+msgstr "Search Announcements"
+
+msgid "No announcements found"
+msgstr "No announcements found"
+
+msgid "No announcements found in trash"
+msgstr "No announcements found in trash"
+
+msgid "Overview"
+msgstr "Overview"
+
+msgid "Enhanced system performance"
+msgstr "Enhanced system performance"
+
+msgid "Improved security features"
+msgstr "Improved security features"
+
+msgid "Bug fixes and optimizations"
+msgstr "Bug fixes and optimizations"
+
+msgid "Better user experience"
+msgstr "Better user experience"
+
+msgid "Updated documentation"
+msgstr "Updated documentation"
+
+msgid "Performance Metrics"
+msgstr "Performance Metrics"
+
+msgid "Availability"
+msgstr "Availability"
+
+msgid "This update is now available to all members. Please check your system settings for deployment options."
+msgstr "This update is now available to all members. Please check your system settings for deployment options."
+
+msgid "Support & Documentation"
+msgstr "Support & Documentation"
+
+msgid "For technical questions or assistance, please contact our support team. Documentation is available in the member portal."
+msgstr "For technical questions or assistance, please contact our support team. Documentation is available in the member portal."
+
+msgid "Update Information"
+msgstr "Update Information"
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "Size:"
+msgstr "Size:"
+
+msgid "Compatibility:"
+msgstr "Compatibility:"
+
+msgid "Deployment:"
+msgstr "Deployment:"
+
+msgid "Related Updates"
+msgstr "Related Updates"
+
+msgid "System Update"
+msgstr "System Update"
+
+msgid "All Systems"
+msgstr "All Systems"
+
+msgid "Manual"
+msgstr "Manual"
+
+msgid "This is an important system update."
+msgstr "This is an important system update."
+
+# ============================================
+# Custom Post Types - Videos
+# ============================================
+msgid "Videos"
+msgstr "Videos"
+
+msgid "Video"
+msgstr "Video"
+
+msgid "Add New Video"
+msgstr "Add New Video"
+
+msgid "Edit Video"
+msgstr "Edit Video"
+
+msgid "New Video"
+msgstr "New Video"
+
+msgid "View Video"
+msgstr "View Video"
+
+msgid "Search Videos"
+msgstr "Search Videos"
+
+msgid "No videos found"
+msgstr "No videos found"
+
+msgid "No videos found in trash"
+msgstr "No videos found in trash"
+
+# ============================================
+# Navigation Menu
+# ============================================
+msgid "Home"
+msgstr "Home"
+
+msgid "Research"
+msgstr "Research"
+
+msgid "Downloads"
+msgstr "Downloads"
+
+msgid "Member"
+msgstr "Member"
+
+# ============================================
+# Case Detail Page
+# ============================================
+msgid "Case Study"
+msgstr "Case Study"
+
+msgid "Success Rate"
+msgstr "Success Rate"
+
+msgid "Performance"
+msgstr "Performance"
+
+msgid "Accuracy"
+msgstr "Accuracy"
+
+msgid "12 months"
+msgstr "12 months"
+
+msgid "10 specialists"
+msgstr "10 specialists"
+
+msgid "Global Markets"
+msgstr "Global Markets"
+
+msgid "Advanced Technology"
+msgstr "Advanced Technology"
+
+msgid "Feature 1"
+msgstr "Feature 1"
+
+msgid "Feature 2"
+msgstr "Feature 2"
+
+msgid "Feature 3"
+msgstr "Feature 3"
+
+msgid "Feature 4"
+msgstr "Feature 4"
+
+msgid "Feature 5"
+msgstr "Feature 5"
+
+msgid "Feature 6"
+msgstr "Feature 6"
+
+msgid "Project Information"
+msgstr "Project Information"
+
+msgid "Duration"
+msgstr "Duration"
+
+msgid "Team Size"
+msgstr "Team Size"
+
+msgid "Markets"
+msgstr "Markets"
+
+msgid "Technology"
+msgstr "Technology"
+
+msgid "Key Features"
+msgstr "Key Features"
+
+msgid "Related Cases"
+msgstr "Related Cases"
+
+msgid "Interested in Similar Solutions?"
+msgstr "Interested in Similar Solutions?"
+
+msgid "Discover how our quantitative trading strategies can transform your investment approach. Contact our team to learn more about implementing advanced algorithmic solutions."
+msgstr "Discover how our quantitative trading strategies can transform your investment approach. Contact our team to learn more about implementing advanced algorithmic solutions."
+
+msgid "View More Cases"
+msgstr "View More Cases"
+
+# ============================================
+# Video Detail Page
+# ============================================
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgid "Beginner"
+msgstr "Beginner"
+
+msgid "English"
+msgstr "English"
+
+msgid "Available"
+msgstr "Available"
+
+msgid "Dr. Michael Chen"
+msgstr "Dr. Michael Chen"
+
+msgid "Senior Quantitative Analyst"
+msgstr "Senior Quantitative Analyst"
+
+msgid "15+ years experience in algorithmic trading and financial modeling."
+msgstr "15+ years experience in algorithmic trading and financial modeling."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Video Information"
+msgstr "Video Information"
+
+msgid "Duration:"
+msgstr "Duration:"
+
+msgid "Level:"
+msgstr "Level:"
+
+msgid "Language:"
+msgstr "Language:"
+
+msgid "Subtitles:"
+msgstr "Subtitles:"
+
+msgid "Related Videos"
+msgstr "Related Videos"
+
+msgid "Instructor"
+msgstr "Instructor"
+
+msgid "Your browser does not support the video tag."
+msgstr "Your browser does not support the video tag."
+
+msgid "Video not available"
+msgstr "Video not available"
+
+msgid "views"
+msgstr "views"
+
+msgid "Published on"
+msgstr "Published on"
+
+msgid "Like"
+msgstr "Like"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Share"
+msgstr "Share"
+
+# ============================================
+# Downloads Page
+# ============================================
+msgid "Read More"
+msgstr "Read More"
+
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+# ============================================
+# Footer
+# ============================================
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Risk Warning"
+msgstr "Risk Warning"
+
+msgid "Contact Information"
+msgstr "Contact Information"
+
+msgid "Investor Relations"
+msgstr "Investor Relations"
+
+# ============================================
+# General
+# ============================================
+msgid "All Categories"
+msgstr "All Categories"
+
+msgid "Select Category"
+msgstr "Select Category"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "No results found"
+msgstr "No results found"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Previous"
+msgstr "Previous"
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "of"
+msgstr "of"
+
+# ============================================
+# Scientists CPT
+# ============================================
+msgid "Scientists"
+msgstr "Scientists"
+
+msgid "Scientist"
+msgstr "Scientist"
+
+msgid "Add New Scientist"
+msgstr "Add New Scientist"
+
+msgid "Edit Scientist"
+msgstr "Edit Scientist"
+
+msgid "New Scientist"
+msgstr "New Scientist"
+
+msgid "View Scientist"
+msgstr "View Scientist"
+
+msgid "Search Scientists"
+msgstr "Search Scientists"
+
+msgid "No scientists found"
+msgstr "No scientists found"
+
+msgid "No scientists found in trash"
+msgstr "No scientists found in trash"
+
+# ============================================
+# User Roles & Permissions
+# ============================================
+msgid "Premium Member"
+msgstr "Premium Member"
+
+msgid "Premium Members"
+msgstr "Premium Members"
+
+# ============================================
+# Profile & Account
+# ============================================
+msgid "My Profile"
+msgstr "My Profile"
+
+msgid "Additional Information"
+msgstr "Additional Information"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Phone number with country code"
+msgstr "Phone number with country code"
+
+msgid "ID Number"
+msgstr "ID Number"
+
+msgid "Government ID, Passport, or Driver's License Number"
+msgstr "Government ID, Passport, or Driver's License Number"
+
+msgid "Phone"
+msgstr "Phone"
+
+msgid "Manage your account information"
+msgstr "Manage your account information"
+
+msgid "Personal Information"
+msgstr "Personal Information"
+
+msgid "Username"
+msgstr "Username"
+
+msgid "Display Name"
+msgstr "Display Name"
+
+msgid "First Name"
+msgstr "First Name"
+
+msgid "Last Name"
+msgstr "Last Name"
+
+msgid "Email Address"
+msgstr "Email Address"
+
+msgid "Not set"
+msgstr "Not set"
+
+msgid "Member Since"
+msgstr "Member Since"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Quick Actions"
+msgstr "Quick Actions"
+
+msgid "Edit Profile"
+msgstr "Edit Profile"
+
+msgid "Change Password"
+msgstr "Change Password"
+
+msgid "Logout"
+msgstr "Logout"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Save Changes"
+msgstr "Save Changes"
+
+msgid "Current Password"
+msgstr "Current Password"
+
+msgid "New Password"
+msgstr "New Password"
+
+msgid "At least 8 characters"
+msgstr "At least 8 characters"
+
+msgid "Confirm New Password"
+msgstr "Confirm New Password"
+
+# ============================================
+# Custom Blocks
+# ============================================
+msgid "Renaissance Blocks"
+msgstr "Renaissance Blocks"
+
+msgid "Methodology Card"
+msgstr "Methodology Card"
+
+msgid "A card to display methodology or approach"
+msgstr "A card to display methodology or approach"
+
+msgid "Result Card"
+msgstr "Result Card"
+
+msgid "A card to display metrics and results"
+msgstr "A card to display metrics and results"
+
+msgid "Results Grid"
+msgstr "Results Grid"
+
+msgid "A grid container for result cards"
+msgstr "A grid container for result cards"
+
+msgid "Methodology Grid"
+msgstr "Methodology Grid"
+
+msgid "A grid container for methodology cards"
+msgstr "A grid container for methodology cards"
+
+# ============================================
+# Elementor Widgets
+# ============================================
+msgid "Renaissance Dynamic"
+msgstr "Renaissance Dynamic"
+
+msgid "Media Reports"
+msgstr "Media Reports"
+
+msgid "Number of Posts"
+msgstr "Number of Posts"
+
+msgid "Category"
+msgstr "Category"
+
+msgid "Order By"
+msgstr "Order By"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Random"
+msgstr "Random"
+
+msgid "No posts found. Please add some posts to display here."
+msgstr "No posts found. Please add some posts to display here."
+
+msgid "Scientists List"
+msgstr "Scientists List"
+
+msgid "Number of Scientists"
+msgstr "Number of Scientists"
+
+msgid "-1 for all scientists"
+msgstr "-1 for all scientists"
+
+msgid "No scientists found. Please add scientists in the backend."
+msgstr "No scientists found. Please add scientists in the backend."
+
+msgid "Cases List"
+msgstr "Cases List"
+
+msgid "Number of Cases"
+msgstr "Number of Cases"
+
+msgid "Columns"
+msgstr "Columns"
+
+msgid "No cases found. Please add cases in the backend."
+msgstr "No cases found. Please add cases in the backend."
+
+msgid "Announcements List"
+msgstr "Announcements List"
+
+msgid "Number of Announcements"
+msgstr "Number of Announcements"
+
+msgid "No announcements found."
+msgstr "No announcements found."
+
+msgid "Video Tutorials"
+msgstr "Video Tutorials"
+
+msgid "Number of Videos"
+msgstr "Number of Videos"
+
+msgid "No video tutorials found."
+msgstr "No video tutorials found."
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Research Hero"
+msgstr "Research Hero"
+
+msgid "Feature %d"
+msgstr "Feature %d"
+
+msgid "Downloads Hero"
+msgstr "Downloads Hero"
+
+msgid "Category Label"
+msgstr "Category Label"
+
+msgid "Main Download Card"
+msgstr "Main Download Card"
+
+msgid "Badge Text"
+msgstr "Badge Text"
+
+msgid "Download File URL"
+msgstr "Download File URL"
+
+msgid "Button Text"
+msgstr "Button Text"
+
+msgid "Commercialization Path"
+msgstr "Commercialization Path"
+
+msgid "Get Started CTA"
+msgstr "Get Started CTA"
+
+msgid "Login Button Text"
+msgstr "Login Button Text"
+
+msgid "Register Button Text"
+msgstr "Register Button Text"
+
+msgid "Upgrade Membership"
+msgstr "Waiting for review"
+
+# ============================================
+# Login Page - Unique New Translations
+# ============================================
+msgid "your@email.com"
+msgstr "E-mail"
+
+msgid "your password"
+msgstr "Password"
+
+msgid "John"
+msgstr "Please enter your last name"
+
+msgid "Doe"
+msgstr "Please enter your first name"
+
+msgid "john.doe@example.com"
+msgstr "Please enter your email address"
+
+msgid "123-456-7890"
+msgstr "Please enter your phone number"
+
+msgid "Government ID / Passport Number"
+msgstr "Government ID / Passport Number"
+
+msgid "A12345678"
+msgstr "Please enter your ID number"
+
+msgid "Driver's License, Passport, or National ID Number"
+msgstr "Driver's License, Passport, or National ID Number"
+
+msgid "••••••••"
+msgstr "Please enter your password"

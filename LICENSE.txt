@@ -1,0 +1,66 @@
+Renaissance WordPress Theme
+Copyright (c) 2025 JiuLingYun
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+================================================================================
+
+ORIGINAL AUTHOR INFORMATION
+================================================================================
+
+Original Development:
+- Theme Name: Renaissance
+- Version: 1.6.9
+- Developer: JiuLingYun
+- Website: https://www.jiulingyun.cn
+- Author URI: https://www.jiulingyun.cn
+
+While you are free to modify and redistribute this theme under the GPL license,
+please respect the original author's copyright and maintain attribution.
+
+For commercial licensing, custom development, or support inquiries, please contact:
+https://www.jiulingyun.cn/contact
+
+================================================================================
+
+WHAT YOU CAN DO:
+================================================================================
+
+✅ Use this theme for personal or commercial projects
+✅ Modify the code to suit your needs
+✅ Redistribute the original or modified version
+✅ Charge for distribution or support services
+
+WHAT YOU MUST DO:
+================================================================================
+
+✅ Keep the original copyright notices
+✅ Include the GPL license file
+✅ Provide source code when distributing
+✅ Use GPL v2 or later for derivative works
+
+WHAT YOU CANNOT DO:
+================================================================================
+
+❌ Remove copyright notices (though GPL allows modification)
+❌ Change the license to non-GPL
+❌ Claim you created the original theme
+❌ Remove this license file
+
+================================================================================
+
+For more information about the GNU General Public License, visit:
+http://www.gnu.org/licenses/gpl-2.0.html
+
